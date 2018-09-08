@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/messaging-jms.iml" filepath="$PROJECT_DIR$/messaging-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-jms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-jms_main.iml" group="messaging-jms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-jms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-jms_test.iml" group="messaging-jms" />
     </modules>
   </component>
 </project>
